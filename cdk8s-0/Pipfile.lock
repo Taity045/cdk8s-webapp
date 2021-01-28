@@ -50,11 +50,11 @@
         },
         "constructs": {
             "hashes": [
-                "sha256:13b7ef3c566a3cb34955c1f1586c76d8a111f52f7b5a2ba0681d765f7fc79221",
-                "sha256:a583b1dc404aed478f60b193c31b7a8c526fc25b31c3ab8da8bf0bf43de28937"
+                "sha256:47c5e709822006e7984be77d2100ebd694798c67d19d86d2d5f1bf51fb98f4dd",
+                "sha256:9423292f65b3f36ee1f358acf261f8bb055e570b48fe0a435e2cb74e983f187e"
             ],
             "index": "pypi",
-            "version": "==3.2.116"
+            "version": "==3.2.117"
         },
         "jsii": {
             "hashes": [

@@ -8,7 +8,7 @@ class MyChart(Chart):
     def __init__(self, scope: Construct, id: str):
         super().__init__(scope, id)
 
-        # define resources here
+        
         label = {"app": "webapp"}
 
         k8s.KubeService(self, 'service',
